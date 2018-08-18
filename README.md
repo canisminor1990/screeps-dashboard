@@ -68,11 +68,11 @@ $ yarn build
 
 ## Link
 
-- ** Github Repo：** <https://github.com/canisminor1990/screeps-dashboard>
-- ** Oneline Demo: ** <http://screeps.canisminor.cc>
-- ** Official: ** <https://screeps.com>
-- ** Official Doc: ** <http://docs.screeps.com/>
-- ** Official API: ** <http://docs.screeps.com/api/>
+- Github Repo： <https://github.com/canisminor1990/screeps-dashboard>
+- Oneline Demo:  <http://screeps.canisminor.cc>
+- Official:  <https://screeps.com>
+- Official Doc:  <http://docs.screeps.com/>
+- Official API:  <http://docs.screeps.com/api/>
 
 
 ## Contact
